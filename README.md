@@ -1,2 +1,2 @@
-# CarRacingGame1.0
+# CarRacingGame
 Car Racing Game Stage 1.0
